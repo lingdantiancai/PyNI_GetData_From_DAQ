@@ -1,0 +1,2 @@
+# PyNI_GetData_From_DAQ
+使用python程序来读取6510表输出的电阻值。
